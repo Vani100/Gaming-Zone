@@ -1,1 +1,2 @@
-# Gaming-Zone
+In this project we created a 3 games ,here user can play and give review .Initialy we have both user and admin login .In user login page we have given set of login credentials like name ,email Id , password , date of brith after complition of login user can play games and review .The login credentials are stored in DBMS.
+In admin page we can perform crud operations like insert ,delete ,update ,search on database like admin can add new user , can delete user from database ,search a users by his name or id ,can upadte his/her data on datbase.
